@@ -41,11 +41,12 @@ Then visit `http://localhost:8000` in your browser.
 
 ## Screenshots
 
-_Add screenshots here once captured — see the project's own screenshot files in the repo root for reference shots._
 
-| Home | Planets | Galaxies |
-|---|---|---|
-| ![Home](./screenshots/home.png) | ![Planets](./screenshots/planets.png) | ![Galaxies](./screenshots/galaxies.png) |
+## Home 
+
+ ![Home](./Screenshot%2025-08-30%at%1.44.23%AM.png) 
+![Planets](./screenshots/planets.png) 
+![Galaxies](./screenshots/galaxies.png) 
 
 ## Demo
 
