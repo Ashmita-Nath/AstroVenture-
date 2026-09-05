@@ -45,13 +45,18 @@ Then visit `http://localhost:8000` in your browser.
 ## Home 
 
 ![Home Page Screenshot](./AstroSS/home.png)
+## PLanets 🪐:
 ![Planets](./AstroSS/p1.png)
 ![Planets](./AstroSS/p2.png)
 ![Planets](./AstroSS/p3.png)
-![Home Page Screenshot](./AstroSS/home.png)
-![Home Page Screenshot](./AstroSS/home.png)
-![Planets](./screenshots/planets.png) 
-![Galaxies](./screenshots/galaxies.png) 
+## Stars ✨:
+![Home Page Screenshot](./AstroSS/star1.png)
+![Home Page Screenshot](./AstroSS/star2.png)
+![Home Page Screenshot](./AstroSS/star3.png)
+## Galaxies 🌆:
+![Planets](./screenshots/g1.png) 
+![Galaxies](./screenshots/g2.png)
+![Galaxies](./screenshots/g3.png)
 
 ## Demo
 
