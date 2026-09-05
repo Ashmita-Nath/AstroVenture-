@@ -48,7 +48,10 @@ _Add screenshots here once captured — see the project's own screenshot files i
 | ![Home](./screenshots/home.png) | ![Planets](./screenshots/planets.png) | ![Galaxies](./screenshots/galaxies.png) |
 
 ## Demo
-[Live Demo]((https://unrivaled-daffodil-4cc1c2.netlify.app/))
+
+[Live Demo](https://unrivaled-daffodil-4cc1c2.netlify.app/)
+
+A screen recording of the app in action is included in the repo (`Screen Recording 2025-08-30 at 1.41.34 AM.mov`).
 
 
 
