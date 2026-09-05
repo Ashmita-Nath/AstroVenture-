@@ -44,7 +44,7 @@ Then visit `http://localhost:8000` in your browser.
 
 ## Home 
 
- ![Home](./Screenshot%2025-08-30%at%1.44.23%AM.png) 
+ ![Home](AstroSS/Home.png) 
 ![Planets](./screenshots/planets.png) 
 ![Galaxies](./screenshots/galaxies.png) 
 
