@@ -48,7 +48,7 @@ _Add screenshots here once captured — see the project's own screenshot files i
 | ![Home](./screenshots/home.png) | ![Planets](./screenshots/planets.png) | ![Galaxies](./screenshots/galaxies.png) |
 
 ## Demo
-[Live Demo](unrivaled-daffodil-4cc1c2.netlify.app)
+[Live Demo]([unrivaled-daffodil-4cc1c2.netlify.app](https://unrivaled-daffodil-4cc1c2.netlify.app/))
 
 
 
