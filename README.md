@@ -54,9 +54,9 @@ Then visit `http://localhost:8000` in your browser.
 ![Home Page Screenshot](./AstroSS/star2.png)
 ![Home Page Screenshot](./AstroSS/star3.png)
 ## Galaxies 🌆:
-![Planets](./screenshots/g1.png) 
-![Galaxies](./screenshots/g2.png)
-![Galaxies](./screenshots/g3.png)
+![Planets](./AstroSS/g1.png) 
+![Galaxies](./AstroSS/g2.png)
+![Galaxies](./AstroSS/g3.png)
 
 ## Demo
 
